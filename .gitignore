@@ -1,0 +1,33 @@
+# Binaries
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go build/test outputs
+*.test
+*.out
+coverage.out
+
+# Go workspace/cache
+bin/
+pkg/
+
+# Dependency/vendor (uncomment if needed)
+# vendor/
+
+# Environment files
+.env
+.env.*
+!.env.example
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
