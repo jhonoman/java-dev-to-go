@@ -22,6 +22,9 @@ pkg/
 .env.*
 !.env.example
 
+# Local app data
+projects/mini-cli/todos.json
+
 # IDE/editor
 .vscode/
 .idea/
