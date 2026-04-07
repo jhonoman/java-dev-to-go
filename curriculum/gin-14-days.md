@@ -15,6 +15,7 @@
 - Topic: Gin installation, project structure, router, HTTP methods (`GET`, `POST`)
 - Practice: endpoints `GET /ping`, `GET /hello/:name`
 - Outcome: first Gin server is running
+- Sample solution: `exercises/gin/day01`
 
 ### Day 2 - JSON Requests and Responses
 - Topic: `c.JSON()`, `c.Param()`, `c.Query()`, `c.ShouldBindJSON()`
